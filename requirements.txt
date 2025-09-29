@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+qdrant-client
+sentence-transformers
+PyPDF2
+numpy
+python-dotenv
+torch
+transformers
+deepeval
+pandas
+plotly
+tiktoken
